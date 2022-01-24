@@ -1,0 +1,25 @@
+.hero{
+    background-image: url('../../../public/sky-night.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    .hero-container{
+
+        .hero-text-container{
+            h2{
+                color: white;
+            }
+                span{
+                    color:#17d92c;
+                }
+            
+            margin: 2rem;
+        }
+    }
+    
+}

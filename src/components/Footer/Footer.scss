@@ -1,0 +1,17 @@
+.footer{
+    width: 100vw;
+    margin: 0!important;
+    font-size: 0.75rem;
+    background-color: black;
+    .copy-right{
+        span{
+            color: white;
+        }
+    }
+    .contact-container{
+        a{
+            text-decoration: none;
+        color: chartreuse;
+        }
+    }
+}

@@ -1,0 +1,18 @@
+.projects-container{
+    background-color: #303035;
+    .projects-header{
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+        color: white;
+        p{
+            color: #b0b0b0;
+        }
+        span{
+            flex: 1;
+        }
+    }
+}
+

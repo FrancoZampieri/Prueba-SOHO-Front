@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Myriad Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Graphik Extralight'), url('./assets/fonts/Graphik-Extralight.otf') format('otf');
+}
+body {
+  h1{
+    font-family: "Graphik Extralight"!important;
+    font-weight: bolder!important;}
+  h2{
+    font-family: "Graphik Extralight"!important;
+    font-weight: bolder!important;}
+  h3{
+    font-family: "Graphik Extralight"!important;
+    font-weight: bolder!important;}
+  a{
+    font-family: "Graphik Extralight"!important;
+    font-weight: bolder!important;}
+  div{
+    font-family: "Graphik Extralight"!important;
+    font-weight: bolder!important;}
+  img{
+    font-family: "Graphik Extralight"!important;
+    font-weight: bolder!important;}
+  p{
+    font-family: "Graphik Extralight"!important;
+    font-weight: bolder!important;}
+  font-family: "Graphik Extralight"!important;
+  font-weight: bolder!important;
+}
